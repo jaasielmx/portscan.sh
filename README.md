@@ -4,16 +4,17 @@ Cuando te encuentres en un equipo donde no puedas instalar ningun programa
 
 ## Uso
 
-./portscan.sh <IP> <puerto|all>
+```./portscan.sh <IP> <puerto|all>```
 
 ## Ejemplos
+
 - Escanear un puerto específico:
 
-./portscan.sh.sh 192.168.1.1 80
+```./portscan.sh 192.168.1.1 80```
 
 - Escanear todos los puertos:
 
-./portscan.sh 192.168.1.1 all
+```./portscan.sh 192.168.1.1 all```
 
 
 
