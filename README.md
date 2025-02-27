@@ -1,6 +1,6 @@
 # portscan.sh
-## Escaner de puertos en bash
-Cuando te encuentres en un equipo donde no puedas instalar nmap o algun escaner de puertos
+## Scanner de puertos en bash
+Cuando te encuentres en un equipo donde no puedas instalar nmap o algun scanner de puertos
 
 ## Uso
 
